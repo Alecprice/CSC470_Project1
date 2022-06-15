@@ -1,0 +1,5 @@
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Project 1\CSC470_Prj1_Pt1\CSC470_Prj1_Pt1\obj\Debug\CSC470_Prj1_Pt1.csproj.CoreCompileInputs.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Project 1\CSC470_Prj1_Pt1\CSC470_Prj1_Pt1\bin\Debug\CSC470_Prj1_Pt1.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Project 1\CSC470_Prj1_Pt1\CSC470_Prj1_Pt1\bin\Debug\CSC470_Prj1_Pt1.pdb
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Project 1\CSC470_Prj1_Pt1\CSC470_Prj1_Pt1\obj\Debug\CSC470_Prj1_Pt1.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Project 1\CSC470_Prj1_Pt1\CSC470_Prj1_Pt1\obj\Debug\CSC470_Prj1_Pt1.pdb
